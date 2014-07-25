@@ -26,11 +26,11 @@ Internet Explorer versions 6, 7, and 8 have increasing support for CSS. They can
 IE7 falls somewhere in the middle, and will ultimately be a case-by-case decision based on resources, browser capabilities, and browser share (at the time of writing, it’s at about 12% for our last 30 days on a clear downward trend).
 
 ####Testing
-Browser  Primary Test OS	Secondary Test OS
-Internet Explorer 8	Windows 7	Windows XP
-Internet Explorer 7	Windows XP	Windows Vista
-
-Internet Explorer 6	Windows XP	N/A
+Browser | Primary Test OS |	Secondary Test OS
+--------|-----------------|------------------
+Internet Explorer 8 |	Windows 7 | Windows XP
+Internet Explorer 7 | Windows XP | Windows Vista
+Internet Explorer 6	| Windows XP | N/A
 
 ####Technical note
 Each of these browsers can be targeted with CSS (and Javascript) using conditional comments.
@@ -42,15 +42,15 @@ The remaining browsers have strong support for most CSS 1 and 2 features, as wel
 Firefox, Chrome, and Safari all have auto-updating features and reliably have the vast majority of users on at least the second-most-recent release of the browser. Because of the combination of this fact with the graceful degradation principles discussed above, we can test only the two most-recent versions of these three browsers.
 Additionally, there are niche browsers like Opera. These browsers generally have good support for web standards and have such tiny shares of our userbase that there is no need to test on them.
 
-Browser  Primary Test OS	Secondary Test OS
-Internet Explorer 9	Windows 7	Windows Vista
-Firefox	Windows XP	Windows 7
-Chrome	Windows XP	Windows 7
-
-Safari	Mac OS X 10.7 Lion	Mac OS X 10.6 Snow Leopard
-Mobile Safari	iOS 5	iOS 4
-Android Browser	TBD	TBD
-Internet Explorer 9 Mobile	Windows Phone 7.5 Mango	N/A
+Browser | Primary Test OS | Secondary Test OS
+--------|-----------------|-------------------
+Internet Explorer 9 | Windows 7 | Windows Vista
+Firefox | Windows XP | Windows 7
+Chrome | Windows XP | Windows 7
+Safari | Mac OS X 10.7 Lion | Mac OS X 10.6 Snow Leopard
+Mobile Safari | iOS 5 | iOS 4
+Android Browser | TBD | TBD
+Internet Explorer 9 Mobile | Windows Phone 7.5 Mango | N/A
 
 #Appendix
 Examples of what works and doesn't work in certain browsers
@@ -62,17 +62,17 @@ Examples of what works and doesn't work in certain browsers
 ##Javascript forms
 For any form created in Javascript, functionality must be written so that the form still works with Javascript turned off.
 
-*1. Good Example: Know Befor You Owe student request.  The Ranking funtion in Step 2 works in Javascript and with Javascript disabled: http://www.consumerfinance.gov/students/knowbeforeyouowe/
+1. Good Example: Know Befor You Owe student request.  The Ranking funtion in Step 2 works in Javascript and with Javascript disabled: http://www.consumerfinance.gov/students/knowbeforeyouowe/
 
-*2. Bad example - Mortgage complaint form.  With Javascript disabled, the form does not work at all: https://help.consumerfinance.gov/app/mortgage/ask
+2. Bad example - Mortgage complaint form.  With Javascript disabled, the form does not work at all: https://help.consumerfinance.gov/app/mortgage/ask
 
-*3. Bad example - Student loan repayment does not function without Javascript: http://www.consumerfinance.gov/students/repay/
+3. Bad example - Student loan repayment does not function without Javascript: http://www.consumerfinance.gov/students/repay/
 
 ##Layout 
 As long as script does not harm functionality, it is OK to use Javascript.  If it will affect functionality, write code so that it can be applied without higher CSS and Javascript.
 
-*1. Rounded corners on form elements: use square corners on forms; rounded corners do not appear on all browsers
+1. Rounded corners on form elements: use square corners on forms; rounded corners do not appear on all browsers
 
-*2. Gradients:
+2. Gradients:
 
-*3. Multiple backgrounds:
+3. Multiple backgrounds:
