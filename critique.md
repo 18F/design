@@ -20,8 +20,6 @@ settled. Be specific about your request, and don't be afraid to focus on a narro
   5. Comps or prototypes
 * Try not to defend your design; this is just a collection of feedback from fresh eyes. You're free to include or not
 include the critique as you see fit.
-* Use Hangouts for remote critique. Other video chat/screenshare solutions we've tried have poor video (and audio)
-fidelity, making it difficult to see and hear.
 
 ## For those providing critique
 
@@ -30,4 +28,27 @@ fidelity, making it difficult to see and hear.
   2. How did they try to achieve it?
   3. How effective were their choices?
   4. Why is or isn't what they did effective?
+* Remember that you are critiquing the design, not the designer.
 * Be sure to identify both parts of the design that are meeting the goals well and parts that could be better.
+* Limit your critique to the parts the designer is asking for critique about. Other parts of the design may not have
+been worked on yet, or may have constraints and goals that you don't know about.
+* Avoid problem solving or brainstorming unless the designer asks for it. Your job is to provide feedback about what
+is working and what isn't -- the designer will take that back and iterate on their work.
+* Feel free to ask questions if you don't understand what the designer is trying to do or if you don't understand
+what the motivation for something was.
+
+## For everybody
+It may take some time to get into a good rhythm as a team around critique. But if we're disciplined and stick with
+it, we'll build the basline knowledge of each other's projects, users, and habits. Over time, this will feel like
+second nature.
+
+A few more general guildlines that should help:
+
+* Use Hangouts for remote critique. Other video chat/screenshare solutions we've tried have poor video (and audio)
+fidelity, making it difficult to see and hear.
+* Timebox critique to 15 or 20 minutes: 5 minutes to explain the topic of critique and goals of the design, and the
+remainder of the time for the critique itself.
+* Have a team-wide critique session every week. With an hour of time, we can critique three different projects.
+* Have critiques without the entire team. Work with other people on your project, or just other designers who are
+available when you need the critique.
+
