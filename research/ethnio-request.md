@@ -2,4 +2,5 @@ To request an Ethnio sub-account, please edit this file, adding your name and pr
 
 |name|project|urgency|
 |:----|:----|:----|
+|Victor Zapanta|OpenOpps|Medium-high|
 |Your name here|Project name here| |
