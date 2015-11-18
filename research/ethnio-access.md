@@ -6,8 +6,9 @@ The following individuals have been granted access to Ethnio
 * Elizabeth Goodman - XFDB
 * Noah Kunin - XFB
 * Kimberly Dowsett - XFB
+* Nicholas Brethauer - XFDB
+* Colin Macarthur - XFDB
 
 # Limited access
 
-* Nicholas Brethauer - XFDB
-* Colin Macarthur - XFDB
+* Victor Zapanta - XFDB
