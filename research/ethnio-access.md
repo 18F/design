@@ -11,6 +11,6 @@ The following individuals have been granted access to Ethnio
 
 # Limited access
 
-* Victor Zapanta - XFDB
 * Michelle Hertzfeld - XFDB
 * Jennifer Ehlers - XFDB
+* Emileigh Barnes - XFDB
