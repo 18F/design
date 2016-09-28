@@ -6,7 +6,6 @@ The following individuals have been granted access to Ethnio
 * Elizabeth Goodman 
 * Noah Kunin 
 * Kimberly Dowsett 
-* Nicholas Brethauer
 * Ethan Heppner
 
 # Limited access, with site
