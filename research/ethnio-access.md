@@ -7,7 +7,6 @@ The following individuals have been granted access to Ethnio
 * Noah Kunin 
 * Kimberly Dowsett 
 * Nicholas Brethauer
-* Colin Macarthur 
 * Ethan Heppner
 
 # Limited access, with site
