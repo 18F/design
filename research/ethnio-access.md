@@ -6,12 +6,11 @@ The following individuals have been granted access to Ethnio
 * Elizabeth Goodman 
 * Noah Kunin 
 * Kimberly Dowsett 
-* Ethan Heppner
+* Ethan Heppner (also helping with FEC)
 
 # Limited access, with site
 
-* Jamie Albrecht - 18F site (Researcher6)
-* Amber Reed - C2 (Researcher6)
-* Meghan Daly - vote (Researcher6)
-* John Donmoyer - eRegs (john.donmoyer)
-* Nicole Krause  - FEC (fec-researcher)
+* Amber Reed - C2 now, FBI soon (Researcher6)
+* Meghan Daly - vote.gov / FFD (Researcher6)
+* Nicole Krause - FEC (fec-researcher)
+* Mark Trammell - CALC (TBD)
