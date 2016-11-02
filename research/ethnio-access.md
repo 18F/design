@@ -13,4 +13,4 @@ The following individuals have been granted access to Ethnio
 * Amber Reed - C2 now, FBI soon (Researcher6)
 * Meghan Daly - vote.gov / FFD (Researcher6)
 * Nicole Krause - FEC (fec-researcher)
-* Mark Trammell - CALC (TBD)
+* Mark Trammell - CALC (mark.trammell-calc)
