@@ -11,10 +11,10 @@ The following individuals have been granted access to Ethnio
 
 | Account Holder | Project | Location of screener | Project Length | High traffic? | Tweet? |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| Amber Reed | C2 now, FBI soon | | | | |
+| @amberwreed  | C2 now, FBI soon | | | | |
 | Meghan Daly | vote.gov / FFD | | | | |
-| Nicole Krause | FEC | | | Around the election |  |
-| Mark Trammell | CALC | | | | |
+| @nickykrause  | FEC | | | Around the election |  |
+| @tram | CALC | | | | |
 
 ## Template questions for new account holders
 - What project do you want to use ethnio for?
