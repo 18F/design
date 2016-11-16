@@ -9,7 +9,9 @@ The following individuals have been granted access to Ethnio
 
 # Limited access, with site
 
-* Amber Reed - C2 now, FBI soon (Researcher6)
-* Meghan Daly - vote.gov / FFD (meghan.daly-vote)
-* Nicole Krause - FEC (fec-researcher)
-* Mark Trammell - CALC (mark.trammell-calc)
+| Account Holder | Project | Ethnio Username | Location of screener | Project Length | High traffic? | Tweet? |
+| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| Amber Reed | C2 now, FBI soon | Researcher6 | | | | |
+| Meghan Daly | vote.gov / FFD | meghan.daly-vote | | | | |
+| Nicole Krause | FEC | fec-researcher | | | Around the election |  |
+| Mark Trammell | CALC | mark.trammell-calc| | | | |
