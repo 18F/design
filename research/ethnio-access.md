@@ -14,7 +14,7 @@ The following individuals have been granted access to Ethnio
 | @amberwreed  | C2 now, FBI soon | | | | |
 | Meghan Daly | vote.gov / FFD | | | | |
 | @nickykrause  | FEC | | | Around the election |  |
-| @tram | CALC | | | | |
+| @tram | CALC | https://calc.gsa.gov | 6-9 months (on and off) | No | No |
 
 ## Template questions for new account holders
 - What project do you want to use ethnio for?
