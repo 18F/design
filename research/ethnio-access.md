@@ -13,7 +13,7 @@ The following individuals have been granted access to Ethnio
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | @amberwreed  | C2 now, FBI soon | | | | |
 | Meghan Daly | vote.gov / FFD | https://vote.gov/ | We had it up during first Facebook promotion. We don't have any immediate plan to add again. Once we launch our next version (after January 2017), we plan on adding ethnio again. | N/A | Possibly |
-| @nickykrause  | FEC | | | Around the election |  |
+| @nickykrause  | FEC | http://www.fec.gov/ | Through March (at least) | Around the election | No |
 | @tram | CALC | https://calc.gsa.gov | 6-9 months (on and off) | No | No |
 
 ## Template questions for new account holders
