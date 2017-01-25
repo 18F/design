@@ -11,7 +11,6 @@ The following individuals have been granted access to Ethnio
 
 | Account Holder | Project | Location of screener | Project Length | High traffic? | Tweet? |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| @amberwreed  | C2 now, FBI soon | | | | |
 | @nickykrause  | FEC | http://www.fec.gov/ | Through March (at least) | Around the election | No |
 | @tram | CALC | https://calc.gsa.gov | 6-9 months (on and off) | No | No |
 
